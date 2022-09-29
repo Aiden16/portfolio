@@ -67,6 +67,10 @@ nav ul li{
     cursor: pointer;
 }
 
+li{
+    margin-bottom: 12px;
+}
+
 /* animation for the cursor */
 
 /* .cursor{
